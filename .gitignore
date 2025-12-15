@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# Data / artifacts
+data/
+raw/
+processed/
+derived/
+cache/
+*.parquet
+*.gpkg
+*.tif
+*.tiff
+*.npy
+*.npz
+*.pt
+*.pth
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
